@@ -1,4 +1,4 @@
-package com.example.muhammadali.note;
+package com.example.pratik.note;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
